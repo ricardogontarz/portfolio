@@ -20,7 +20,7 @@ body{
     color: var(--cor-secundaria);
 }
 
-.titulo-destaque{
+.destaqueTitulo{
     color: var(--cor-terciaria);
 }
 
